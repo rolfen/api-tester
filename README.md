@@ -23,3 +23,7 @@ If not specified, method will default to GET:
     });
 
 For more details feel free to look at the comments inside files.
+
+### ToDo
+
+Tests and examples
