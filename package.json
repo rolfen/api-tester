@@ -1,0 +1,19 @@
+{
+  "name": "api-tester",
+  "version": "1.0.0",
+  "description": "Simple node http request helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolfen/api-tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolfen/api-tester/issues"
+  },
+  "homepage": "https://github.com/rolfen/api-tester#readme"
+}
