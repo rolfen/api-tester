@@ -8,14 +8,14 @@ Simple node http request helper
 
 ### Api.js
 
-Provides a helper function for sending requests to an API, supposedly for testing.
+Provides a helper function for sending requests to an API, useful for testing.
 
 POST Example:
 
     api('/updateRecipe?id=3', function(response){
         // Do something with the server response. It will normally be a parsed JSON object.
       },{method:'POST'},{
-        // Update these recipe properties
+        // send this object as post values
         title:"New Veggie" 
       }
     );
