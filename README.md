@@ -1,6 +1,10 @@
 # api-tester
 Simple node http request helper
 
+### Dependencies
+
+Not much, really. Vanilla node.js.
+
 ### Getting Started
     var apiTester = require("lib/Api.js");
     // apiTester accepts an options object (containing configuration options) as optional argument
@@ -8,7 +12,7 @@ Simple node http request helper
 
 ### Api.js
 
-Provides a helper function for sending requests to an API, useful for testing.
+Provides a helper function for making requests to a web API.
 
 POST Example:
 
